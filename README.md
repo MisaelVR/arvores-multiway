@@ -46,7 +46,7 @@ O projeto tem como objetivo reforçar o entendimento de **árvores multiway**, e
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/trie-java.git
+   git clone https://github.com/MisaelVR/arvores-multiway.git
 2. Abra o arquivo Trie.java na sua IDE.
 3. Compile e execute:
    javac Trie.java
@@ -59,5 +59,5 @@ O projeto tem como objetivo reforçar o entendimento de **árvores multiway**, e
 - Resolução de Problemas Estruturados em Computação, Engenharia de Software – PUCPR.
 
 # 📌 Links Importantes
-- Repositório GitHub: https://github.com/usuario/trie-java
+- Repositório GitHub: https://github.com/MisaelVR/arvores-multiway
 - Vídeo explicativo: https://www.youtube.com/seuvideo
