@@ -60,4 +60,4 @@ O projeto tem como objetivo reforçar o entendimento de **árvores multiway**, e
 
 # 📌 Links Importantes
 - Repositório GitHub: https://github.com/MisaelVR/arvores-multiway
-- Vídeo explicativo: https://www.youtube.com/seuvideo
+- Vídeo explicativo: https://www.youtube.com/watch?v=c3t4U0sja1A
